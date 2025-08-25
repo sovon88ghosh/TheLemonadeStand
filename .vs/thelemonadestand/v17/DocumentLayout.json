@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSCode2022\\LemonadeApp\\TheLemonadeStand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6D7EA0-99E7-851F-837D-CB937C8C97FA}|thelemonadestand.esproj|d:\\vscode2022\\lemonadeapp\\thelemonadestand\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5E6D7EA0-99E7-851F-837D-CB937C8C97FA}|thelemonadestand.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6D7EA0-99E7-851F-837D-CB937C8C97FA}|thelemonadestand.esproj|d:\\vscode2022\\lemonadeapp\\thelemonadestand\\src\\customerform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5E6D7EA0-99E7-851F-837D-CB937C8C97FA}|thelemonadestand.esproj|solutionrelative:src\\customerform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6D7EA0-99E7-851F-837D-CB937C8C97FA}|thelemonadestand.esproj|d:\\vscode2022\\lemonadeapp\\thelemonadestand\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E6D7EA0-99E7-851F-837D-CB937C8C97FA}|thelemonadestand.esproj|solutionrelative:.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launch.json",
+              "DocumentMoniker": "D:\\VSCode2022\\LemonadeApp\\TheLemonadeStand\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": ".vscode\\launch.json",
+              "ToolTip": "D:\\VSCode2022\\LemonadeApp\\TheLemonadeStand\\.vscode\\launch.json",
+              "RelativeToolTip": ".vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T13:25:36.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerForm.jsx",
+              "DocumentMoniker": "D:\\VSCode2022\\LemonadeApp\\TheLemonadeStand\\src\\CustomerForm.jsx",
+              "RelativeDocumentMoniker": "src\\CustomerForm.jsx",
+              "ToolTip": "D:\\VSCode2022\\LemonadeApp\\TheLemonadeStand\\src\\CustomerForm.jsx",
+              "RelativeToolTip": "src\\CustomerForm.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-21T06:53:00.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\VSCode2022\\LemonadeApp\\TheLemonadeStand\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "D:\\VSCode2022\\LemonadeApp\\TheLemonadeStand\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-21T06:11:18.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
